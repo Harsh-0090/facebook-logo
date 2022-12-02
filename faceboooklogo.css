@@ -11,20 +11,20 @@ body {
     width: 100vw;
 }
 .facebook-logo {
-    background: #4661b0;
+    background: #134af0;
     width: 100px;
     height: 110px;
     border-radius: 3px;
     position: relative;
     overflow: hidden;
-    border: 15px solid #4661b0;
+    border: 15px solid #134af0;
     border-bottom: 0;
 }
 .facebook-logo:before {
     content: "";
     position: absolute;
-    background: #4661b0;
-    width: 40px;
+    background: #134af0;
+    width: 45px;
     height: 90px;
     bottom: -30px;
     right: -37px;
@@ -35,7 +35,7 @@ body {
     content: "";
     position: absolute;
     background: #fff;
-    width: 55px;
+    width: 55px; 
     height: 20px;
     top: 50px;
     right: 5px;
